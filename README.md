@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sameer Singh</h1>
 <h3 align="center">Developer | Problem Solver</h3>
-📫 How to reach me - [**2k22.aiml.2212254@gmail.com**](mailto:2k22.aiml.2212254@gmail.com)
+📫 How to reach me - 2k22.aiml.2212254@gmail.com
 <p align="left">
 </p>
 <h3 align="left">Languages and Tools:</h3>
