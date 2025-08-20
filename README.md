@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sameer Singh</h1>
-<h3 align="center">Frontend Developer | Problem Solver</h3>
+<h3 align="center">Developer | Problem Solver</h3>
 
 📫 How to reach me - **2k22.aiml.2212254@gmail.com**
 
