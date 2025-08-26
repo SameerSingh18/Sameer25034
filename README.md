@@ -34,5 +34,5 @@
   </a> 
 </p>
 <p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sameer25034&show_icons=true&locale=en&layout=compact" alt="sameer25034" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sameer25034&show_icons=true&locale=en&layout=compact" alt="SameerSingh18" />
 </p>
